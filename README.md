@@ -36,7 +36,7 @@ pytest
 
 Run tests with the main_page marker:
 ```bash
-Run tests with the main_page marker:
+pytest -m main_page
 ```
 
 Run a specific test:
