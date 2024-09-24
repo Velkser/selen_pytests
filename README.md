@@ -27,7 +27,7 @@ Download ChromeDriver
 Make sure the WebDriver is added to your system's environment variables.
 
 ## Running Tests
-###Basic Commands
+### Basic Commands
 
 Run all tests:
 ```bash
