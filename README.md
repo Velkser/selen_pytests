@@ -67,8 +67,6 @@ This makes it easy to add new scenarios for testing different products.
 │   └── product_page.py     # Classes and methods for the product page
 ├── tests/
 │   ├── test_main_page.py   # Tests for the main page
-│   ├── test_login_page.py  # Tests for the login page
-│   └── test_product_page.py# Tests for the product page
 ├── conftest.py             # Fixtures for the tests
 └── requirements.txt        # Project dependencies
 ```
