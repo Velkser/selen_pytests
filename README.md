@@ -98,6 +98,6 @@ def test_guest_can_use_add_btn(browser, book):
 ```
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out via email: `serhiivielkin@gmail.com`.
+If you have any questions or suggestions, feel free to reach out via email: `vielkinserhii@gmail.com`.
 
 
